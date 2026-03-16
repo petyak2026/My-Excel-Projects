@@ -7,7 +7,9 @@ The project was completed as part of a Data Technician bootcamp, focusing on dev
 Using retail and sales datasets, the project demonstrates proficiency with formulas, PivotTables, filtering/sorting, categorisation logic, and charts.
 
 Skills & Techniques Used
+
 ✔️ Excel Formulas
+
 Applied a variety of formulas to analyse and enrich datasets:
 
 SUM() – Total commission and sales values
@@ -52,7 +54,9 @@ Retail dataset analysis
 PivotTables summarising sales by county, product, and demographics
 SWITCH‑based categorisation column
 Charts and visual outputs from the visualisation labs
+
 🎓 Key Learning Outcomes
+
 This project strengthened skills in:
 
 Data manipulation and cleaning
@@ -60,4 +64,4 @@ Building and customising PivotTables and PivotCharts
 Applying intermediate/advanced Excel formulas
 Creating categorisation logic within datasets
 Using visualisations to support data storytelling
-If you want, I can also help you:
+
