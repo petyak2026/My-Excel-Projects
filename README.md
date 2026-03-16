@@ -1,4 +1,4 @@
-Excel Retail & Sales Analysis Project
+**Excel Retail & Sales Analysis Project**
 
 Data Technician Bootcamp 
 
